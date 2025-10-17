@@ -169,9 +169,7 @@ You'll need your API key to connect. Find it by:
   API Key (Bearer token): moviemcp_xxxxx...
   OpenAI App MCP URL: https://your-app-name.onrender.com/mcp/messages?api_key=moviemcp_xxxxx...
   ```
-- Copy the `OpenAI App MCP URL`; you'll paste it in Step 3 below
-- If you set `ADMIN_API_KEY` during deployment, use that value
-- Or create a new user via the admin endpoint (see [Authentication](#authentication--user-management) section)
+- Copy the `OpenAI App MCP URL`, you'll need it at Step 3 below
 
 ### Step 2: Enable developer mode (first time only)
 
